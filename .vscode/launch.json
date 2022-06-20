@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EcastanedaApplication<ecastaneda>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.generation.EcastanedaApplication",
+            "projectName": "ecastaneda",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
